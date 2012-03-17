@@ -22,6 +22,16 @@ the result of calling `new Mongolian()`
   * `db` - name of database to use, defaults to "connectMongolianStore"
   * `port` - port to connect to, defaults to 27017
   * `collection` - name of the collection, defaults to "sessions"
+
+Tests
+-----
+  You need to have mongo running on localhost, then...
+
+  Run em:
+
+```
+npm test
+```
  
 Usage
 -----
