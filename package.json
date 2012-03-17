@@ -1,8 +1,10 @@
 { "name": "connect-mongolian"
-, "description": "Redis session store for Connect"
+, "description": "Mongolian session store for Connect"
 , "version": "0.0.1"
 , "author": "Zach Smith <x.coder.zach@gmail.com>"
 , "main": "./index.js"
 , "dependencies": { "mongolian": ">= 0.1.x" }
-, "devDependencies": { "connect": ">= 1.8.x" }
+, "devDependencies": { "connect": ">= 1.8.x" 
+                     , "mocha": ">= 1.14.x" 
+                     , "should": ">= 0.6.x" }
 , "engines": { "node": ">= 0.4.x" }}
