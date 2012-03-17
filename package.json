@@ -7,4 +7,10 @@
 , "devDependencies": { "connect": ">= 1.8.x" 
                      , "mocha": ">= 1.14.x" 
                      , "should": ">= 0.6.x" }
+, "scripts": { "test": "mocha" }
+, "repository": {
+    "type": "git",
+    "url": "https://github.com/xcoderzach/connect-mongolian.git"
+  }
+, "license": "MIT"
 , "engines": { "node": ">= 0.4.x" }}

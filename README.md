@@ -17,7 +17,7 @@ Options
 -------
 
   * `server` - A db connection, if you already have one you want to use.
-the result of calling `new Mongolian()`
+the result of calling `new Mongolian`
   * `host` - hostName to connect to, defaults to "localhost"
   * `db` - name of database to use, defaults to "connectMongolianStore"
   * `port` - port to connect to, defaults to 27017
