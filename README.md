@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/xcoderzach/connect-mongolian.png)](http://travis-ci.org/xcoderzach/connect-mongolian)
 Connect Mongolian
 =================
 
